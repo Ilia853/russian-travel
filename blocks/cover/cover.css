@@ -10,6 +10,14 @@
     margin-top: 92px;
 }
 
+.cover::after {
+    content: "";
+    width: 0;
+    height: 0;
+    margin-left: -1px;
+    padding-top: calc(740/1184*100%);
+}
+
 @media screen and (max-width: 850px) {
     .cover {
         margin-top: 90px;

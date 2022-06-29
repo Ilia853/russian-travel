@@ -5,10 +5,10 @@
     justify-content: center;
     width: 100%;
     text-decoration: none;
-    aspect-ratio: 1184 / 740;
     background: rgba(0, 0, 0, 0.3);
 }
 
 .cover__link:hover {
     background: rgba(0, 0, 0, 0.8);
 }
+
