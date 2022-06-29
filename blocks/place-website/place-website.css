@@ -5,3 +5,9 @@
     align-items: flex-start;
     max-width: 484px;
 }
+
+@media screen and (max-width: 550px) {
+    .place-website {
+        padding: 0 16px;
+    }
+}
