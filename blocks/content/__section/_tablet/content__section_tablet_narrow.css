@@ -1,0 +1,5 @@
+@media screen and (max-width: 850px) {
+    .content__section_tablet_narrow {
+        padding: 0 24px;
+    }
+}

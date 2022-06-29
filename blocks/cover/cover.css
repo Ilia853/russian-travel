@@ -1,0 +1,18 @@
+.cover {
+    background-image: url(../../vendor/pictures/cover-trains.jpg);
+    display: flex;
+    font-family: 'Inter';
+    font-weight: 400;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    max-width: 1184px;
+    margin-top: 92px;
+}
+
+@media screen and (max-width: 850px) {
+    .cover {
+        margin-top: 90px;
+    }
+    
+}

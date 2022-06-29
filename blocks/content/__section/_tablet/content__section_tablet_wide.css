@@ -1,0 +1,13 @@
+.content__section_tablet_wide {
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 850px) {
+    .content__section_tablet_wide {
+        padding: 0;
+    }
+
+    .page__header, .page__footer {
+        padding: 0 24px;
+    }
+}
