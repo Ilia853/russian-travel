@@ -5,10 +5,13 @@
     justify-content: center;
     width: 100%;
     text-decoration: none;
-    background: rgba(0, 0, 0, 0.3);
+    background: #2A2C2F;
+    opacity: 0.3;
+    transition: opacity 0.3s linear 0.2s;
 }
 
 .cover__link:hover {
-    background: rgba(0, 0, 0, 0.8);
+    background: #2A2C2F;
+    opacity: 0.8;
 }
 

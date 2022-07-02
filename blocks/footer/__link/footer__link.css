@@ -5,7 +5,8 @@
     color: #FFFFFF;
     text-decoration: none;
     margin: 0;
-    padding-right: 18px;
+    margin-right: 18px;
+    transition: opacity 0.3s linear 0.2s;
 }
 
 .footer__link:hover {
@@ -14,7 +15,7 @@
 
 @media screen and (max-width: 550px){
     .footer__link {
-        padding-bottom: 32px;
+        margin-bottom: 32px;
         font-size: 24px;
         line-height: 24px;
     }
