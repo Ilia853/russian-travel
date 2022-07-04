@@ -3,7 +3,7 @@
     color: #FFFFFF;
     font-size: 24px;
     line-height: 28px;
-    padding-right: 18px;
+    margin-right: 18px;
     text-decoration: none;
     transition: opacity 0.3s linear 0.2s;
 }
@@ -13,7 +13,7 @@
 }
 
 .header__lang-link:last-of-type {
-    padding-right: 0;
+    margin-right: 0;
 }
 
 @media screen and (max-width: 550px){
