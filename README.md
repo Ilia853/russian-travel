@@ -10,4 +10,4 @@
 
 ## Всем спасибо, это всё.
 
-вот ссылка на работу (https://ilia853.github.io/russian-travel/)
+вот ссылка на работу https://ilia853.github.io/russian-travel/
